@@ -1,12 +1,12 @@
 # Vue.js Interview Questions
 
 - What are components? Why it is used? Write a simple component?
-- What is App.vue? Why its important? write
+- What is App.vue? Why its important?
 - What are single file components?
-- What to give in 'serve' at package.json? write
+- What to give in 'serve' at package.json?
 - What is the default port of vue.js application? How to change the port? Write the code
 - What are the installed Cli Plugins in vue.js?
-- What this code will do? '<HelloWorld msg="Welcome! Vue.js"/>'
+- What this code will do? <HelloWorld msg=\'Welcome! Vue.js\'/>
 - What is a template? Write a template?
 - Explain the project structure of vue.js?
 - How to create a new vue.js application?
