@@ -118,7 +118,6 @@
 - How to deploy the vue.js application?
 - What is axios.js? Why we use it?
 - How to handle events?
-- What are semantic elements in html5?
 - What is a local storage in html5?
 - What is a class in typescript?
 - What is a global variable in javascript?
@@ -132,7 +131,7 @@
 - Explain the vue project structure?
 - Explain axios? How axios give better support for vue?
 - What is .vue represents?
-- What are semantic elements? Why we go for semantic elements?
+- What are semantic elements in html5? Why we go for semantic elements?
 - Explain vue. js events? What is a click event? What are event modifiers? What are event - key modifiers?
 - What is real DOM?
 - How can you do better performance in vue.js?
@@ -148,7 +147,6 @@
 - What is watch property?
 - What is binding? How you bind html classes and inline styles.
 - What is array.splice in javascript?
-- What are semantic elements in html5?
 - What are higher order functions?
 - What are the new feature presents in css3?
 - What is a responsive web design?
