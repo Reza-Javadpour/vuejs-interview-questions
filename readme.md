@@ -101,7 +101,7 @@
 - How to deploy the vue.js application?
 - What is axios.js? Why we use it?
 - What are primary, secondary and territary in bootstrap?
-- What is a <nav>?
+- What is a \<nav\>?
 - What is the difference between absolute positioning and relative positioning in css3?
 - What is flexbox in css3? What will this code do? 1px black solid;
 - What is the point which makes you to decide Vue.js rather than Angular and React?
